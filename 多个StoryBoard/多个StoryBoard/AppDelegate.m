@@ -4,7 +4,7 @@
 //
 //  Created by Wangguibin on 16/3/28.
 //  Copyright © 2016年 DDYS. All rights reserved.
-//
+//https://github.com/WangGuibin/WGBMultiDeveloperStoryBoardDemo
 /*!
  *  @author WGB, 16-03-28 11:03:36
  *  三个storyBoard 一起  分功能模块化开发
